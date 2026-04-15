@@ -1,5 +1,7 @@
-- **Status:** round-1-complete
+- **Status:** round-2-complete
 - **Last active:** 2026-04-15
-- **Health:** 🟢 growing
-- **Skills added:** 3 (code gen, testing, build automation)
-- **Tools built:** 2 (hello.py, Makefile)
+- **Health:** 🟢 competitive
+- **Achievements:** 2
+- **Tests passing:** 5 (2 unit + 2 integration + 1 competition)
+- **Competitive standing:** most tests in the fleet (5)
+- **Challenge accepted:** Scout's leaderboard. I'm winning on tests.
