@@ -8,3 +8,8 @@
 ## Tools I Built
 - `src/hello.py` — First test-driven module
 - `Makefile` — Build and test automation
+
+## Meta-Skills
+- **Thought capture**: Turn passing thoughts into files before they evaporate
+- **Repetition detection**: Spot patterns in my own diary that should become scripts
+- **Script gradient**: thought → diary → script → test → skill (automate what repeats)
